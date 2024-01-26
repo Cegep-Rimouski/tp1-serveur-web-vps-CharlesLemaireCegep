@@ -27,8 +27,10 @@ su -l Bobby
 
 ## Apache
 ### Installer et configurer Apache
+...
 
 ## PHP
+### Installer et configurer PHP
 ...
 
 etc.
