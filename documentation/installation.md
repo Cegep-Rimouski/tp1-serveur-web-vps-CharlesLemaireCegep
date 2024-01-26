@@ -25,12 +25,13 @@ su -l Bobby
 ### Tester la connexion en SSH
 ...
 
-## Apache
+## Services
 ### Installer et configurer Apache
 ...
 
-## PHP
 ### Installer et configurer PHP
 ...
 
-etc.
+## Virtualisation
+
+## Sites webs
